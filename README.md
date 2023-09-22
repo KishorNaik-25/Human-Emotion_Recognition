@@ -1,1 +1,5 @@
 Human face expression recognition is the process of using technology, such as computer vision or artificial intelligence, to identify and interpret the emotions and expressions conveyed by a person's face. It involves analyzing facial features like the eyes, eyebrows, mouth, and overall facial muscle movements to determine emotions like happiness, sadness, anger, fear, surprise, and more. This technology has applications in various fields, including psychology, human-computer interaction, and marketing, and can be used for tasks such as sentiment analysis, emotion detection, and improving human-machine communication.
+![Disgust](https://github.com/KishorNaik-25/Human-Emotion_Recognition/assets/62133844/ca717e99-cfa0-48c8-bf9a-a9ff835b6291)
+![Happy](https://github.com/KishorNaik-25/Human-Emotion_Recognition/assets/62133844/ca8c801b-237e-4002-a519-369d94a2b496)
+![Surprise](https://github.com/KishorNaik-25/Human-Emotion_Recognition/assets/62133844/6f8cc2e5-cd42-4128-880f-155146c7e55b)
+![Fear](https://github.com/KishorNaik-25/Human-Emotion_Recognition/assets/62133844/2c4654cc-51db-4d67-bfc7-588bfaa856da)
